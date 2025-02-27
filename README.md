@@ -37,8 +37,7 @@ Live Site URL: (https://shybit0.github.io/ping-coming-soon-page-frontend-mentor/
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- CSS Grid
+- Flex
 - Mobile-first workflow
 - JavaScript
 
