@@ -32,10 +32,7 @@ Users should be able to:
 
 ![](images/screenshot.png)
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Live Site URL: (https://shybit0.github.io/ping-coming-soon-page-frontend-mentor/)
 
 ## My process
 
